@@ -1,0 +1,33 @@
+#
+# A fatal error has been detected by the Java Runtime Environment:
+#
+#  SIGSEGV (0xb) at pc=0x00007fe4130b0f31, pid=22, tid=545
+#
+# JRE version: OpenJDK Runtime Environment AdoptOpenJDK (11.0.10+9) (build 11.0.10+9)
+# Java VM: OpenJDK 64-Bit Server VM AdoptOpenJDK (11.0.10+9, mixed mode, tiered, compressed oops, g1 gc, linux-amd64)
+# Problematic frame:
+# C  [libjimage.so+0x3f31]
+#
+# Core dump will be written. Default location: Core dumps may be processed with "/lib/systemd/systemd-coredump %P %u %g %s %t 9223372036854775808 %h" (or dumping to /home/joswan/Documents/GitHub/joswan2567/core.22)
+#
+# If you would like to submit a bug report, please visit:
+#   https://github.com/AdoptOpenJDK/openjdk-support/issues
+#
+
+---------------  S U M M A R Y ------------
+
+Command Line: -Dosgi.requiredJavaVersion=1.8 -Dosgi.instance.area.default=@user.home/STM32CubeIDE/workspace_1.7.0 -Declipse.buildId=Version 1.7.0 -DproductMaturityGrade=mm -XX:+UseG1GC -XX:+UseStringDeduplication -Xms256m -Xmx1024m /app/stm32cubeide//plugins/org.eclipse.equinox.launcher_1.6.100.v20201223-0822.jar -os linux -ws gtk -arch x86_64 -showsplash -launcher /app/stm32cubeide/stm32cubeide -name Stm32cubeide --launcher.library /app/stm32cubeide//plugins/org.eclipse.equinox.launcher.gtk.linux.x86_64_1.2.100.v20210209-1541/eclipse_11301.so -startup /app/stm32cubeide//plugins/org.eclipse.equinox.launcher_1.6.100.v20201223-0822.jar --launcher.overrideVmargs -exitdata 10029 -vm /app/stm32cubeide//plugins/com.st.stm32cube.ide.jre.linux64_2.0.0.202105032045/jre/bin/java -vmargs -Dosgi.requiredJavaVersion=1.8 -Dosgi.instance.area.default=@user.home/STM32CubeIDE/workspace_1.7.0 -Declipse.buildId=Version 1.7.0 -DproductMaturityGrade=mm -XX:+UseG1GC -XX:+UseStringDeduplication -Xms256m -Xmx1024m -jar /app/stm32cubeide//plugins/org.eclipse.equinox.launcher_1.6.100.v20201223-0822.jar
+
+Host: Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz, 4 cores, 15G, GNOME 41 (Flatpak runtime)
+Time: Tue Nov 23 16:28:23 2021 -03 elapsed time: 20319.066679 seconds (0d 5h 38m 39s)
+
+---------------  T H R E A D  ---------------
+
+Current thread (0x00007fe40e937800):  JavaThread "Framework stop - Equinox Container: 3f55225b-e1c2-4a14-8573-fa572b07a23d" [_thread_in_vm, id=545, stack(0x00007fe36c483000,0x00007fe36c584000)]
+
+Stack: [0x00007fe36c483000,0x00007fe36c584000],  sp=0x00007fe36c57bdc0,  free space=995k
+Native frames: (J=compiled Java code, A=aot compiled Java code, j=interpreted, Vv=VM code, C=native code)
+C  [libjimage.so+0x3f31]
+C  [libjimage.so+0x4c1a]
+C  [libjimage.so+0x511a]  JIMAGE_FindResource+0xfa
+V  [libjvm.so+0x5fe86e]
