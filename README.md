@@ -1,4 +1,5 @@
-## Hi, I'm José Wanderson, I'm a Computer Engineering student at UTFPR and I'm currently Embedded Systems Developer at AutenPRO
+## Hi, I'm José Wanderson! 
+## I'm a Computer Engineering student at UTFPR and I'm currently Embedded Systems Developer at AutenPRO
 <div align="center">
   <a href="https://github.com/joswan2567">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joswan2567&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
