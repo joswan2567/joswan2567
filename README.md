@@ -1,4 +1,4 @@
-## Hi, I'm José Wanderson! 
+## Hi, I'm José Wanderson!
 ## I'm a Computer Engineering student at UTFPR and I'm currently Embedded Systems Developer at AutenPRO
 <div align="center">
   <a href="https://github.com/joswan2567">
