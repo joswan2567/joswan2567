@@ -1,5 +1,5 @@
 ## Hi, I'm José Wanderson!
-## I'm a Computer Engineering student at UTFPR
+## I'm a Computer Engineering student at UTFPR and I am a JR Embedded Software Development Analyst at Solinftec
 <!---  and I'm currently Embedded Systems Developer at AutenPRO --->
 <div align="center">
   <a href="https://github.com/joswan2567">
