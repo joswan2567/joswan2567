@@ -6,6 +6,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joswan2567&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joswan2567&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div> -->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joswan2567&theme=github-dark-blue)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joswan2567&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <div style="display: inline_block"><br>
 
   <img align="center" alt="Joswan-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
