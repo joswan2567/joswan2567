@@ -8,11 +8,11 @@
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joswan2567&theme=github-dark-blue)](https://git.io/streak-stats)
 
 </div>
-<div align="left">
+<!-- <div align="left">
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joswan2567&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
+</div> -->
 
 ### ⚙️ Languages and Tools
 <div align="left" style="display: inline_block"><br>
